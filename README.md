@@ -83,7 +83,7 @@ before being used for commercial purposes.
 
 ## Live Website
 
-Add the GitHub Pages link here after deployment.
+https://yashjain07dbhs.github.io/FUTURE_FS_03/
 
 ## GitHub Repository
 
